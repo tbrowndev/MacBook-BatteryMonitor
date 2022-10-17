@@ -1,6 +1,6 @@
 # MacBook Battery Monitor
 
-This project checks the battery percentage and alerts the user through a notification of the battery level if over 90% or less than 20%
+This checks the battery percentage and alerts the user through a notification of the battery level if over 90% or less than 20%
 
 Why I created this:
 - grew tired of leaving my computer on the charger too long when its already fully charged.
